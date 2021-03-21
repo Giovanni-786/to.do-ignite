@@ -54,11 +54,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :zap: Como usar
 
-- Faça um clone desse repositório: `git clone https://github.com/Giovanni-786/Happy`
+- Faça um clone desse repositório: 
+`git clone https://github.com/Giovanni-786/to.do-ignite.git`
+
 - Instale as dependências: `yarn install` ou `npm install`
 - Inicie a aplicação:
-
-    - Entre na pasta: `cd challengeModule01_ignite`
     - Rode o comando de inicialização: `yarn start` ou `npm start`
 
 <a id="como-contribuir"></a>
